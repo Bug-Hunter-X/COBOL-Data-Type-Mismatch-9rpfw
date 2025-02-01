@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL programming error: a data type mismatch.  The program attempts to manipulate string and numeric data without proper type checking.  The `bug.cob` file contains the erroneous code; `bugSolution.cob` presents a corrected version.
